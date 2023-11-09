@@ -1,4 +1,4 @@
-module Comp
+module github.com/Stimmikex/GO-Components
 
 go 1.21.1
 
